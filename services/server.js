@@ -1,0 +1,1 @@
+export const SERVER_URL="https://mern-test-server-szgm.onrender.com"
